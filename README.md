@@ -1,14 +1,12 @@
-<div>
+<div align="center">
 <pre>
     💻 Linuxer • Always wanting to create stuff
     📖 DAW • Distributed systems
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<div align=center">
 <img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/sudormrf.gif" height="40" />
 <br><br>
-</div>
 </div>
 
 ```ascii
