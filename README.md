@@ -1,3 +1,9 @@
+<div align="center">
+    <!-- ************************************** -->
+    <!-- 🟢 [1] EL GANCHO DINÁMICO (TOP IMPACT) -->
+    <!-- Este bloque debe ir primero para enganchar al lector. -->
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Envy+Coder&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Hello+There!+Enric+System+Architect%2C+Ready+For+Deployment)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
 
