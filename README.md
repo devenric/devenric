@@ -5,7 +5,7 @@
 
 <pre>
     💻 Linuxer • Always wanting to create stuff
-    📖 DAW • Distributed systems
+    📖 DAW
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
@@ -16,7 +16,6 @@
 <br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,git&theme=dark&perline=9" /> 
 <br><br>
-<img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/sudormrf.gif" height="40" />
 <img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/tux.gif" height="60" />
 <br><br>
 </div>
