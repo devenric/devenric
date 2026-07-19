@@ -9,16 +9,21 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
+<<<<<<< HEAD
 
 💻 Stack Tecnológico
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,git&theme=dark&perline=9" /> 
 <img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/sudormrf.gif" height="40" />
+=======
+<img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/tux.gif" height="60" />
+>>>>>>> 755e9b0bfd96505fe8860158b65b413b0f91c8cb
 <br><br>
 </div>
 
+
 ```ascii
-                                                +**+      *+
+                                              *+
                                             +++=+*+*#%%%%#++**++**+ *****
                                         +#+++*#%%%%%%%%%%#%%%##*##*#*##*****
                                         #*#%#%%%%%%%%%%%%%%%%%%%%%%%%%%#%%#***
@@ -63,4 +68,5 @@
                             #************+=+++====+++=------------------===++=======++===****************#
                         ***************+=++++======+++++++===========+++=======++==+*********************%
                     #*****************+=+++++==+====+++++++=======++++============*************************##*#
+
 ```ascii
