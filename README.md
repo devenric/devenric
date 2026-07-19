@@ -1,3 +1,11 @@
+<pre>
+    💻 Linuxer • Always wanting to create stuff
+    📖 DAW • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/sudormrf.gif" height="40" />
+<br><br>
 ```ascii
                                                 +**+      *+
                                             +++=+*+*#%%%%#++**++**+ *****
