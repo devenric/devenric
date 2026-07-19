@@ -9,7 +9,7 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/tux.gif" height="40" />
+<img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/tux.gif" height="60" />
 <br><br>
 </div>
 
