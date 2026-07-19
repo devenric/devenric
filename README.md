@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Envy+Coder&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Hello+There!+Enric+Here)](https://git.io/typing-svg)
+
 <div align="center">
 <pre>
     💻 Linuxer • Always wanting to create stuff
