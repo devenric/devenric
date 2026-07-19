@@ -5,7 +5,7 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<div style="justify-content:center align-items:center">
+<div align=center">
 <img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/sudormrf.gif" height="40" />
 <br><br>
 </div>
