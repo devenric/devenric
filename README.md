@@ -69,4 +69,4 @@
                     #*****************+=+++++==+====+++++++=======++++============*************************##*#
 
 ```
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,50:7000FF,100:00D1FF&height=110&section=footer&bgHeight=0" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,50:7000FF,150:00D1FF&height=110&section=footer&bgHeight=0" /> 
