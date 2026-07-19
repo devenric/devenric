@@ -13,6 +13,7 @@
 
 <img src="https://img.shields.io/badge/STUDIES-DAW%20STUDENT-7000FF?style=for-the-badge&logo=bookstack&logoColor=white" /> <br><br>
 💻 Stack Tecnológico
+<br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,git&theme=dark&perline=9" /> 
 <br><br>
 <img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/sudormrf.gif" height="40" />
