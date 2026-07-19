@@ -11,6 +11,7 @@
 <br>
 
 💻 Stack Tecnológico
+
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,git&theme=dark&perline=9" /> 
 <img src="https://raw.githubusercontent.com/devenric/devenric/master/assets/sudormrf.gif" height="40" />
 <br><br>
