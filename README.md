@@ -4,16 +4,19 @@
 <p float="left">
 <img align="left" width="600" src="/assets/imagen ascii enric.png" alt="Mi ASCII">
 </p>
+<br><br><br>
+<p>
+    
+## [ENRIC GARCÍA TORRES] | Curiosidad Profesional
 
-##  [ENRIC GARCÍA TORRES] | Curiosidad Profesional
 > Mi forma de trabajar es un tanto diferente. A la hora de pensar una idea de proyecto, o una funcionalidad, el hecho de pensar en **como conectarlas** con el resto del sistema me ayuda a visualizar las mayores debilidades de estos. Cuando empiezo a pensar en un proyecto o una funcionalidad, mi primer filtro nunca es la dificultad de codificarlo. Mi enfoque está siempre en el **por qué** lo necesitamos: cómo este nuevo componente va a interactuar con los demás sistemas ya existentes para crear valor.
+
 <pre>
     💻 Linuxer • Always wanting to create stuff
     📖 DAW
-    🎮 Music • Games • Anime • Code • Art
-    
+    🎮 Music • Games • Anime • Code • Art    
 </pre>
-<br>
+</p>
 
 
 <img src="https://img.shields.io/badge/STUDIES-DAW%20STUDENT-7000FF?style=for-the-badge&logo=bookstack&logoColor=white" /> <br><br>
